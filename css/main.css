@@ -188,6 +188,10 @@ footer {
   margin: 5px;
 }
 
+.header_img{
+  width: 100%;
+}
+
 @media (min-width: 1024px) {
   /* Index*/
   .contenedor {
